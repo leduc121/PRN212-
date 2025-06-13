@@ -1,0 +1,14 @@
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\bin\Debug\net8.0\HotelManagement.DAL.deps.json
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\bin\Debug\net8.0\HotelManagement.DAL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\bin\Debug\net8.0\HotelManagement.DAL.pdb
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.AssemblyInfoInputs.cache
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.AssemblyInfo.cs
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.csproj.CoreCompileInputs.cache
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\refint\HotelManagement.DAL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.pdb
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\ref\HotelManagement.DAL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\bin\Debug\net8.0\HotelManagement.DAL.runtimeconfig.json
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.csproj.AssemblyReference.cache
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.DAL\obj\Debug\net8.0\HotelManagement.DAL.genruntimeconfig.cache

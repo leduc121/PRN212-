@@ -1,0 +1,15 @@
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\bin\Debug\net8.0\HotelManagement.BLL.deps.json
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\bin\Debug\net8.0\HotelManagement.BLL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\bin\Debug\net8.0\HotelManagement.BLL.pdb
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\bin\Debug\net8.0\HotelManagement.DAL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\bin\Debug\net8.0\HotelManagement.DAL.pdb
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.csproj.AssemblyReference.cache
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.AssemblyInfoInputs.cache
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.AssemblyInfo.cs
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.csproj.CoreCompileInputs.cache
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelMan.90F3649C.Up2Date
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\refint\HotelManagement.BLL.dll
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\HotelManagement.BLL.pdb
+D:\ASP\LeNguyenQuangDuc_SE1845_AS01\HotelManagement.BLL\obj\Debug\net8.0\ref\HotelManagement.BLL.dll
